@@ -5,4 +5,6 @@ Disallow: /lectures_ecommerce.html
 Disallow: /lectures_management.html
 Disallow: /lectures_mobile.html
 Disallow: /lectures_technical.html
+
 Host: 2016.nastachku.ru
+Sitemap: http://2016.nastachku.ru/sitemap.xml
